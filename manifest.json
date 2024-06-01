@@ -1,7 +1,7 @@
 {
-  "name": "LethalPosters",
-  "version_number": "1.2.3",
-  "website_url": "https://femboy.tv",
+  "name": "Artemis_LethalPosters",
+  "version_number": "1.0",
+  "website_url": "https://github.com/tinnatonia/Artemis_LethalPosters",
   "description": "COMPATIBLE WITH v45. Allows for editing of posters inside of the ship",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
